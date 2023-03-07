@@ -10,4 +10,4 @@ num2 = 45  #Crear la variable 2 y definirle un valor
 suma = num1 + num2 #Crear la variable suma para realizar la operacion suma de las 2 variables antes creadas
 
 
-print(suma) #imprimimos la variable suma con el resultado de la suma 
+print(suma) #imprimimos la variable suma con el resultado
