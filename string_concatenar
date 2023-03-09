@@ -1,0 +1,7 @@
+var = 'Hoy tengo ganas de'
+var2 = 'hacer tarea'
+var3 = 'dormir'
+
+text = var + ' ' + var2
+
+print(text)
