@@ -4,6 +4,6 @@ colores = ['rojo', 'azul', 'verde', 'amarillo', 'marrón', 'lila', 'negro', 'ros
 del colores[2]
 del colores[5]
 del colores[-4]
-del colores[-10]
+del colores[-10] 
 
 print(colores)
