@@ -13,4 +13,4 @@ teclado2 = {
 }
 
 for x in teclado2:
-	print(x,teclado2[x])
+	print(x,"=",teclado2[x],".")#Agregar datos para formato
